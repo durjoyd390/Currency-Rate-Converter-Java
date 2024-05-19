@@ -1,0 +1,1 @@
+At first setup JDK in your computer.<br>Then open project path in cmd<br>Type: javac Main.java<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; java Main<br>Output: <br> ![Capture](https://github.com/durjoyd390/Currency-Rate-Converter-Java/assets/73610695/c676ee2e-fd1e-4bee-96da-6018b4dba8e4)
